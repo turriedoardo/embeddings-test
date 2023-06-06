@@ -1,3 +1,5 @@
 embeddings-venv/
 .vscode/
-.env
+.env/
+env/
+data/
